@@ -1,0 +1,9 @@
+
+
+#loading img{
+    width: 40%;
+}
+#loading , #results{
+    display: none;
+}
+
